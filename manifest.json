@@ -1,6 +1,6 @@
 {
-    "name": "iOS Soundboard",
-    "short_name": "Soundboard",
+    "name": "Brian's Sounds",
+    "short_name": "Brian's Sounds",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
